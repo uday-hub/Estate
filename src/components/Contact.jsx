@@ -63,7 +63,7 @@ toast.error(data.message);
               required
             />
           </div>
-          <div className="w-full md:w-1/2 text-left md:pl-4">
+          <div className="w-full md:w-1/2 text-left md:pl-4 pt-4 md:pt-0">
             Your Email
             <input
               type="email"
