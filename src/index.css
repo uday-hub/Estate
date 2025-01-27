@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a{
+    cursor: pointer !important;
+}
+* {
+    font-family: Outfit !important;
+}
